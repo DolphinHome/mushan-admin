@@ -4,3 +4,5 @@
 后端使用 java springboot  springsecurity
 
 b站地址：https://www.bilibili.com/video/BV1YG4y1z7pM?spm_id_from=333.999.0.0&vd_source=c6700092758092817e6a6463360a3597
+
+密码都是123456
